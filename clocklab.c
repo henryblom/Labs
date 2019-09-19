@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(){
+void clocklab(void){
 
     int inputSecond;
 

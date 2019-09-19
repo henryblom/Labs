@@ -7,7 +7,7 @@
 //
 
 #include <stdio.h>
-int main(int argc, const char * argv[]) {
+void rectanglelab(void) {
 float side1 = 0.0;
 float side2 = 0.0;
 puts("Enter the length of side 1: \n");

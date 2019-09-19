@@ -8,7 +8,7 @@
 
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
+void trianglelab(void) {
     float legone = 0.0;
     float legtwo = 0.0;
     float answer = 0.0;

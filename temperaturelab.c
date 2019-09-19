@@ -8,7 +8,7 @@
 
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
+void temperaturelab(void) {
     float input1 = 0.0;
     float input2 = 0.0;
     float input3 = 0.0;
